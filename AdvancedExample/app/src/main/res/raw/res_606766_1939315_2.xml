@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:noNamespaceSchemaLocation="http://specs.adfox.ru/uploads/vast.xsd">
+<Ad id="2099581">
+<InLine>
+<AdSystem>AdFox.Ru</AdSystem>
+<AdTitle>Linear Video Ad</AdTitle>
+<Description>video ad</Description>
+<Error><![CDATA[http://ads.adfox.ru/250985/event?hash=5b3bd68272568f9d&pm=u&utg=oxum&puid14=100004&puid13=100009&puid11=100010&lts=evzehzz&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&p5=eplxd&puid4=697%2C698%2C7320%2C674&p1=bvquu&pr=a&puid2=avod&p2=fkxp&puid3=rca&puid5=100010%2C100022%2C100009%2C100004&rand=ccandfp&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1]]></Error>
+<Impression><![CDATA[http://ads.adfox.ru/250985/event?hash=8ce16ca7c38700ce&pm=d&utg=oxum&puid14=100004&puid13=100009&puid11=100010&lts=evzehzz&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&p5=eplxd&puid4=697%2C698%2C7320%2C674&p1=bvquu&pr=a&puid2=avod&p2=fkxp&puid3=rca&puid5=100010%2C100022%2C100009%2C100004&rand=eklxrno&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1]]></Impression>
+<Creatives>
+<Creative>
+<Linear skipoffset="00:00:10">
+
+<Duration>00:00:15</Duration>
+
+<TrackingEvents>
+<Tracking event="creativeView"><![CDATA[http://ads.adfox.ru/250985/event?hash=8dd3c63c36457b94&pm=c&utg=oxum&puid14=100004&puid13=100009&puid11=100010&lts=evzehzz&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&p5=eplxd&puid4=697%2C698%2C7320%2C674&p1=bvquu&pr=a&puid2=avod&p2=fkxp&puid3=rca&puid5=100010%2C100022%2C100009%2C100004&rand=easxgqt&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1]]></Tracking>
+<Tracking event="start"><![CDATA[http://ads.adfox.ru/250985/event?hash=84344bf65da477af&pm=b&utg=oxum&puid14=100004&puid13=100009&puid11=100010&lts=evzehzz&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&p5=eplxd&puid4=697%2C698%2C7320%2C674&p1=bvquu&pr=a&puid2=avod&p2=fkxp&puid3=rca&puid5=100010%2C100022%2C100009%2C100004&rand=cudflox&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1]]></Tracking>
+<Tracking event="start"><![CDATA[http://ads.adfox.ru/250985/event?hash=b986e72cd66a97c6&pm=v&utg=oxum&puid14=100004&puid13=100009&puid11=100010&lts=evzehzz&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&p5=eplxd&puid4=697%2C698%2C7320%2C674&p1=bvquu&pr=a&puid2=avod&p2=fkxp&puid3=rca&puid5=100010%2C100022%2C100009%2C100004&rand=cauauoj&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1]]></Tracking>
+<Tracking event="midpoint"><![CDATA[http://ads.adfox.ru/250985/event?hash=10c55a3bb8e07821&pm=f&utg=oxum&puid14=100004&puid13=100009&puid11=100010&lts=evzehzz&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&p5=eplxd&puid4=697%2C698%2C7320%2C674&p1=bvquu&pr=a&puid2=avod&p2=fkxp&puid3=rca&puid5=100010%2C100022%2C100009%2C100004&rand=bsdxjjl&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1]]></Tracking>
+<Tracking event="firstQuartile"><![CDATA[http://ads.adfox.ru/250985/event?hash=049844e67e86161a&pm=e&utg=oxum&puid14=100004&puid13=100009&puid11=100010&lts=evzehzz&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&p5=eplxd&puid4=697%2C698%2C7320%2C674&p1=bvquu&pr=a&puid2=avod&p2=fkxp&puid3=rca&puid5=100010%2C100022%2C100009%2C100004&rand=fqqtxbs&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1]]></Tracking>
+<Tracking event="thirdQuartile"><![CDATA[http://ads.adfox.ru/250985/event?hash=2c78728242d50a4e&pm=g&utg=oxum&puid14=100004&puid13=100009&puid11=100010&lts=evzehzz&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&p5=eplxd&puid4=697%2C698%2C7320%2C674&p1=bvquu&pr=a&puid2=avod&p2=fkxp&puid3=rca&puid5=100010%2C100022%2C100009%2C100004&rand=drenakg&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1]]></Tracking>
+<Tracking event="complete"><![CDATA[http://ads.adfox.ru/250985/event?hash=32817ec8dd163712&pm=h&utg=oxum&puid14=100004&puid13=100009&puid11=100010&lts=evzehzz&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&p5=eplxd&puid4=697%2C698%2C7320%2C674&p1=bvquu&pr=a&puid2=avod&p2=fkxp&puid3=rca&puid5=100010%2C100022%2C100009%2C100004&rand=ffetdar&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1]]></Tracking>
+<Tracking event="mute"><![CDATA[http://ads.adfox.ru/250985/event?hash=5145d2bcfe2abb0e&pm=i&utg=oxum&puid14=100004&puid13=100009&puid11=100010&lts=evzehzz&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&p5=eplxd&puid4=697%2C698%2C7320%2C674&p1=bvquu&pr=a&puid2=avod&p2=fkxp&puid3=rca&puid5=100010%2C100022%2C100009%2C100004&rand=cnoritb&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1]]></Tracking>
+<Tracking event="unmute"><![CDATA[http://ads.adfox.ru/250985/event?hash=e8a63548e118f105&pm=j&utg=oxum&puid14=100004&puid13=100009&puid11=100010&lts=evzehzz&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&p5=eplxd&puid4=697%2C698%2C7320%2C674&p1=bvquu&pr=a&puid2=avod&p2=fkxp&puid3=rca&puid5=100010%2C100022%2C100009%2C100004&rand=dvdrtee&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1]]></Tracking>
+<Tracking event="pause"><![CDATA[http://ads.adfox.ru/250985/event?hash=02cb437dcda98096&pm=k&utg=oxum&puid14=100004&puid13=100009&puid11=100010&lts=evzehzz&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&p5=eplxd&puid4=697%2C698%2C7320%2C674&p1=bvquu&pr=a&puid2=avod&p2=fkxp&puid3=rca&puid5=100010%2C100022%2C100009%2C100004&rand=uhutxz&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1]]></Tracking>
+<Tracking event="rewind"><![CDATA[http://ads.adfox.ru/250985/event?hash=b2b1fb47bb4a5177&pm=l&utg=oxum&puid14=100004&puid13=100009&puid11=100010&lts=evzehzz&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&p5=eplxd&puid4=697%2C698%2C7320%2C674&p1=bvquu&pr=a&puid2=avod&p2=fkxp&puid3=rca&puid5=100010%2C100022%2C100009%2C100004&rand=cayfrul&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1]]></Tracking>
+<Tracking event="resume"><![CDATA[http://ads.adfox.ru/250985/event?hash=b85b3b15142227d4&pm=m&utg=oxum&puid14=100004&puid13=100009&puid11=100010&lts=evzehzz&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&p5=eplxd&puid4=697%2C698%2C7320%2C674&p1=bvquu&pr=a&puid2=avod&p2=fkxp&puid3=rca&puid5=100010%2C100022%2C100009%2C100004&rand=fhqfvcd&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1]]></Tracking>
+<Tracking event="fullscreen"><![CDATA[http://ads.adfox.ru/250985/event?hash=ffca0c84d2df74c2&pm=n&utg=oxum&puid14=100004&puid13=100009&puid11=100010&lts=evzehzz&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&p5=eplxd&puid4=697%2C698%2C7320%2C674&p1=bvquu&pr=a&puid2=avod&p2=fkxp&puid3=rca&puid5=100010%2C100022%2C100009%2C100004&rand=ddzrngc&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1]]></Tracking>
+<Tracking event="expand"><![CDATA[http://ads.adfox.ru/250985/event?hash=c2e038f3c8510135&pm=o&utg=oxum&puid14=100004&puid13=100009&puid11=100010&lts=evzehzz&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&p5=eplxd&puid4=697%2C698%2C7320%2C674&p1=bvquu&pr=a&puid2=avod&p2=fkxp&puid3=rca&puid5=100010%2C100022%2C100009%2C100004&rand=ciabllk&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1]]></Tracking>
+<Tracking event="collapse"><![CDATA[http://ads.adfox.ru/250985/event?hash=2fa719dca36ab6c5&pm=p&utg=oxum&puid14=100004&puid13=100009&puid11=100010&lts=evzehzz&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&p5=eplxd&puid4=697%2C698%2C7320%2C674&p1=bvquu&pr=a&puid2=avod&p2=fkxp&puid3=rca&puid5=100010%2C100022%2C100009%2C100004&rand=gnknter&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1]]></Tracking>
+<Tracking event="acceptInvitation"><![CDATA[http://ads.adfox.ru/250985/event?hash=7ee61069b0ca49fb&pm=q&utg=oxum&puid14=100004&puid13=100009&puid11=100010&lts=evzehzz&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&p5=eplxd&puid4=697%2C698%2C7320%2C674&p1=bvquu&pr=a&puid2=avod&p2=fkxp&puid3=rca&puid5=100010%2C100022%2C100009%2C100004&rand=fcymzkn&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1]]></Tracking>
+<Tracking event="close"><![CDATA[http://ads.adfox.ru/250985/event?hash=154a77cf7d8d26d0&pm=r&utg=oxum&puid14=100004&puid13=100009&puid11=100010&lts=evzehzz&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&p5=eplxd&puid4=697%2C698%2C7320%2C674&p1=bvquu&pr=a&puid2=avod&p2=fkxp&puid3=rca&puid5=100010%2C100022%2C100009%2C100004&rand=cvisuqx&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1]]></Tracking>
+</TrackingEvents>
+
+<AdParameters/>
+
+<VideoClicks>
+<ClickThrough><![CDATA[http://ads.adfox.ru/250985/goLink?puid14=100004&puid13=100009&puid11=100010&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1&rand=cvzowgl&p5=eplxd&puid4=697%2C698%2C7320%2C674&p1=bvquu&pr=a&hash=f560df67b64b88e6&p2=fkxp&puid3=rca&puid2=avod&puid5=100010%2C100022%2C100009%2C100004&minisite=false]]></ClickThrough>
+<ClickTracking/>
+</VideoClicks>
+
+<MediaFiles>
+<MediaFile id="1" delivery="progressive" type="video/mp4" bitrate="" maintainAspectRatio="false" scalable="true" width="1280" height="720"><![CDATA[http://www.tvzavr.ru/common/tvzrecl/Barter/mafioza.mp4?rnd=463778587]]></MediaFile>
+</MediaFiles>
+
+</Linear>
+</Creative>
+</Creatives>
+
+<Extensions>
+<Extension type="startTime"><![CDATA[00:00]]></Extension>
+<Extension type="skipTime"><![CDATA[00:15]]></Extension>
+<Extension type="skipTime2"><![CDATA[00:10]]></Extension>
+<Extension type="linkTxt"><![CDATA[&#1087;&#1077;&#1088;&#1077;&#1081;&#1090;&#1080; &#1085;&#1072; &#1089;&#1072;&#1081;&#1090; &#1088;&#1077;&#1082;&#1083;&#1072;&#1084;&#1086;&#1076;&#1072;&#1090;&#1077;&#1083;&#1103;]]></Extension>
+<Extension type="isClickable"><![CDATA[1]]></Extension>
+<Extension type="skipAd"><![CDATA[http://ads.adfox.ru/250985/event?hash=3ce2971c713a3fd7&pm=s&utg=oxum&puid14=100004&puid13=100009&puid11=100010&lts=evzehzz&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&p5=eplxd&puid4=697%2C698%2C7320%2C674&p1=bvquu&pr=a&puid2=avod&p2=fkxp&puid3=rca&puid5=100010%2C100022%2C100009%2C100004&rand=lsoteu&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1]]></Extension>
+<Extension type="addClick"><![CDATA[http://ads.adfox.ru/250985/event?hash=812ed438c21f6f88&pm=t&utg=oxum&puid14=100004&puid13=100009&puid11=100010&lts=evzehzz&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&p5=eplxd&puid4=697%2C698%2C7320%2C674&p1=bvquu&pr=a&puid2=avod&p2=fkxp&puid3=rca&puid5=100010%2C100022%2C100009%2C100004&rand=cftimba&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1]]></Extension>
+<Extension type="exclusive"><![CDATA[0]]></Extension>
+<Extension type="schedule"/>
+</Extensions> 
+</InLine>
+</Ad>
+</VAST>

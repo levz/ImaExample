@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0" xsi:noNamespaceSchemaLocation="http://specs.adfox.ru/uploads/vast.xsd">
+	<Ad id="606766-1939315-1" sequence="1">
+        <Wrapper>
+			<AdSystem>IMHO-1</AdSystem>
+            <VASTAdTagURI><![CDATA[http://127.0.0.1:8787/606766-1939315-1.xml]]></VASTAdTagURI>
+			<Impression><![CDATA[http://ads.adfox.ru/250985/event?hash=db18964d7caec3ea&pm=c&puid14=100004&puid13=100009&puid11=100010&lts=evzehzx&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&p5=egivb&puid4=697%2C698%2C7320%2C674&p1=bvqup&pr=a&puid2=avod&p2=fkxq&puid3=rca&puid5=100010%2C100022%2C100009%2C100004&rand=dqxytwv&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1]]></Impression>
+			<Creatives>
+				<Creative>
+					<Linear>
+						<TrackingEvents>
+							<Tracking event="start"><![CDATA[http://ads.adfox.ru/250985/event?hash=c0c38e866dc74f3c&pm=b&puid14=100004&puid13=100009&puid11=100010&lts=evzehzx&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&p5=egivb&puid4=697%2C698%2C7320%2C674&p1=bvqup&pr=a&puid2=avod&p2=fkxq&puid3=rca&puid5=100010%2C100022%2C100009%2C100004&rand=cnpgcsn&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1]]></Tracking>
+						</TrackingEvents>
+						<AdParameters/>
+						<VideoClicks>
+							<ClickTracking><![CDATA[http://ads.adfox.ru/250985/event?hash=422362c2392f197d&pm=d&puid14=100004&puid13=100009&puid11=100010&lts=evzehzx&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&p5=egivb&puid4=697%2C698%2C7320%2C674&p1=bvqup&pr=a&puid2=avod&p2=fkxq&puid3=rca&puid5=100010%2C100022%2C100009%2C100004&rand=bminjzm&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1]]></ClickTracking>
+						</VideoClicks>
+					</Linear>
+				</Creative>
+			</Creatives>
+			<Extensions>
+				<Extension/>
+			</Extensions>
+        </Wrapper>
+	</Ad>
+	
+	<Ad id="606766-1939315-2" sequence="2">
+        <Wrapper>
+			<AdSystem>TVZAVR-1</AdSystem>
+            <VASTAdTagURI><![CDATA[http://127.0.0.1:8787/606766-1939315-2.xml]]></VASTAdTagURI>
+			<Impression><![CDATA[http://ads.adfox.ru/250985/event?hash=3d8a5c2b870c0bc4&pm=f&puid14=100004&puid13=100009&puid11=100010&lts=evzehzx&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&p5=egivb&puid4=697%2C698%2C7320%2C674&p1=bvqup&pr=a&puid2=avod&p2=fkxq&puid3=rca&puid5=100010%2C100022%2C100009%2C100004&rand=bjtezvm&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1]]></Impression>
+			<Creatives>
+				<Creative>
+					<Linear>
+						<TrackingEvents>
+							<Tracking event="start"><![CDATA[http://ads.adfox.ru/250985/event?hash=1a50a79ffd1db210&pm=e&puid14=100004&puid13=100009&puid11=100010&lts=evzehzx&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&p5=egivb&puid4=697%2C698%2C7320%2C674&p1=bvqup&pr=a&puid2=avod&p2=fkxq&puid3=rca&puid5=100010%2C100022%2C100009%2C100004&rand=bxtufoo&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1]]></Tracking>
+						</TrackingEvents>
+						<AdParameters/>
+						<VideoClicks>
+							<ClickTracking><![CDATA[http://ads.adfox.ru/250985/event?hash=1b997c912ca4e5d4&pm=g&puid14=100004&puid13=100009&puid11=100010&lts=evzehzx&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&p5=egivb&puid4=697%2C698%2C7320%2C674&p1=bvqup&pr=a&puid2=avod&p2=fkxq&puid3=rca&puid5=100010%2C100022%2C100009%2C100004&rand=gwotjyt&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1]]></ClickTracking>
+						</VideoClicks>
+					</Linear>
+				</Creative>
+			</Creatives>
+			<Extensions>
+				<Extension/>
+			</Extensions>
+        </Wrapper>
+	</Ad>
+	
+	<Ad id="606766-1939315-3" sequence="3">
+        <Wrapper>
+			<AdSystem>IMHO-2</AdSystem>
+            <VASTAdTagURI><![CDATA[http://127.0.0.1:8787/606766-1939315-3.xml]]></VASTAdTagURI>
+			<Impression><![CDATA[http://ads.adfox.ru/250985/event?hash=5eca7afc9cb3cae6&pm=i&puid14=100004&puid13=100009&puid11=100010&lts=evzehzx&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&p5=egivb&puid4=697%2C698%2C7320%2C674&p1=bvqup&pr=a&puid2=avod&p2=fkxq&puid3=rca&puid5=100010%2C100022%2C100009%2C100004&rand=gbvabeq&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1]]></Impression>
+			<Creatives>
+				<Creative>
+					<Linear>
+						<TrackingEvents>
+							<Tracking event="start"><![CDATA[http://ads.adfox.ru/250985/event?hash=d644f5af828c5821&pm=h&puid14=100004&puid13=100009&puid11=100010&lts=evzehzx&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&p5=egivb&puid4=697%2C698%2C7320%2C674&p1=bvqup&pr=a&puid2=avod&p2=fkxq&puid3=rca&puid5=100010%2C100022%2C100009%2C100004&rand=gctijvf&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1]]></Tracking>
+						</TrackingEvents>
+						<AdParameters/>
+						<VideoClicks>
+							<ClickTracking><![CDATA[http://ads.adfox.ru/250985/event?hash=c95c735a7b18e011&pm=j&puid14=100004&puid13=100009&puid11=100010&lts=evzehzx&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&p5=egivb&puid4=697%2C698%2C7320%2C674&p1=bvqup&pr=a&puid2=avod&p2=fkxq&puid3=rca&puid5=100010%2C100022%2C100009%2C100004&rand=exoqqbq&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1]]></ClickTracking>
+						</VideoClicks>
+					</Linear>
+				</Creative>
+			</Creatives>
+			<Extensions>
+				<Extension/>
+			</Extensions>
+        </Wrapper>
+	</Ad>
+	
+	<Ad id="606766-1939315-4" sequence="4">
+        <Wrapper>
+			<AdSystem>TVZAVR-2</AdSystem>
+            <VASTAdTagURI><![CDATA[http://127.0.0.1:8787/606766-1939315-4.xml]]></VASTAdTagURI>
+			<Impression><![CDATA[http://ads.adfox.ru/250985/event?hash=c378bf64740f397f&pm=l&puid14=100004&puid13=100009&puid11=100010&lts=evzehzx&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&p5=egivb&puid4=697%2C698%2C7320%2C674&p1=bvqup&pr=a&puid2=avod&p2=fkxq&puid3=rca&puid5=100010%2C100022%2C100009%2C100004&rand=bxdqrbg&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1]]></Impression>
+			<Creatives>
+				<Creative>
+					<Linear>
+						<TrackingEvents>
+							<Tracking event="start"><![CDATA[http://ads.adfox.ru/250985/event?hash=12ac1e8eaf0de826&pm=k&puid14=100004&puid13=100009&puid11=100010&lts=evzehzx&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&p5=egivb&puid4=697%2C698%2C7320%2C674&p1=bvqup&pr=a&puid2=avod&p2=fkxq&puid3=rca&puid5=100010%2C100022%2C100009%2C100004&rand=znvvjb&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1]]></Tracking>
+						</TrackingEvents>
+						<AdParameters/>
+						<VideoClicks>
+							<ClickTracking><![CDATA[http://ads.adfox.ru/250985/event?hash=2421724c0ee7eee0&pm=m&puid14=100004&puid13=100009&puid11=100010&lts=evzehzx&puid10=100010%3A100022%3A100009%3A100004&puid7=2627226628&p5=egivb&puid4=697%2C698%2C7320%2C674&p1=bvqup&pr=a&puid2=avod&p2=fkxq&puid3=rca&puid5=100010%2C100022%2C100009%2C100004&rand=dpalyji&puid46=5&puid12=100022&puid9=Sluzhebnyi-roman-1]]></ClickTracking>
+						</VideoClicks>
+					</Linear>
+				</Creative>
+			</Creatives>
+			<Extensions>
+				<Extension/>
+			</Extensions>
+        </Wrapper>
+	</Ad>
+</VAST>

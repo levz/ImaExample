@@ -17,9 +17,17 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+
+    packagingOptions {
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/nanohttpd/mimetypes.properties'
+        exclude 'META-INF/nanohttpd/default-mimetypes.properties'
+    }
 }
 
 dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
     compile 'com.google.ads.interactivemedia.v3:interactivemedia:3.7.2'
     compile 'com.android.support:appcompat-v7:24.0'
     compile 'com.google.android.gms:play-services-ads:10.2.4'

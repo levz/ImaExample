@@ -92,6 +92,7 @@ public class VideoPlayerWithAdPlayback extends RelativeLayout {
 
             @Override
             public void loadAd(String url) {
+                Log.d("ImaExample", "loadAd() for url: " + url);
                 mIsAdDisplayed = true;
                 mVideoPlayer.setVideoPath(url);
             }
@@ -291,7 +292,7 @@ public class VideoPlayerWithAdPlayback extends RelativeLayout {
             return;
         }
         mIsAdDisplayed = false;
-        mVideoPlayer.setVideoPath(mContentVideoUrl);
+        //mVideoPlayer.setVideoPath(mContentVideoUrl);
         mVideoPlayer.enablePlaybackControls();
         mVideoPlayer.seekTo(mSavedContentPosition);
         mVideoPlayer.play();

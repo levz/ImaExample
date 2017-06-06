@@ -13,6 +13,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 
+import com.google.ads.interactivemedia.v3.samples.adfox.LocalHTTPServer;
+
 /**
  * Main Activity.
  */
@@ -51,6 +53,15 @@ public class MyActivity extends AppCompatActivity
     protected void onStart() {
         super.onStart();
         sCastApplication.activityOnStart();
+
+        LocalHTTPServer.getInstance(this).start();
+    }
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+
+        LocalHTTPServer.getInstance(this).stop();
     }
 
     @Override

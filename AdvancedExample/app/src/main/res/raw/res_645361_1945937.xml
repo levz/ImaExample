@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:noNamespaceSchemaLocation="http://specs.adfox.ru/uploads/vast.xsd">
+<Ad id="2097703">
+<InLine>
+<AdSystem version="1.0">AdFox IMHO Vi</AdSystem>
+<AdTitle>VAST Ad</AdTitle>
+<Error><![CDATA[http://v.adfox.ru/226279/event?hash=8f8d7391a1029bb5&pm=u&utg=oxum&eid1=902%3A271871848%3A2627226628&puid30=902&puid14=100004&p2=eyit&p5=epjcx&p1=bofrt&pr=indebya&puid5=1&puid6=1&puid20=999999999&puid11=100010&puid13=100009&lts=evzehzy&puid10=100010%3A100022%3A100009%3A100004&rand=cqgmxtc&puid12=100022]]></Error>
+<Impression><![CDATA[http://v.adfox.ru/226279/event?hash=4bfc96b0b4f9bae1&pm=b&utg=oxum&eid1=902%3A271871848%3A2627226628&puid30=902&puid14=100004&p2=eyit&p5=epjcx&p1=bofrt&pr=indebya&puid5=1&puid6=1&puid20=999999999&puid11=100010&puid13=100009&lts=evzehzy&puid10=100010%3A100022%3A100009%3A100004&rand=eywzjvs&puid12=100022]]></Impression>
+<Impression><![CDATA[http://unilever2.solution.weborama.fr/fcgi-bin/dispatch.fcgi?a.A=im&a.si=3471&a.te=1142&a.aap=708&a.agi=379&a.hr=XC&g.ra=2058337562]]></Impression>
+<Impression><![CDATA[http://pixel.adlooxtracking.com/ads/image.php?_=2058337562&banniere=weborama_ru_js&campagne=weborama_ru_js&client=weborama_ru_js&id1=1130&id2=100&id3=361&id4=&id5=1144&id6=9&id7=2058337562]]></Impression>
+<Impression><![CDATA[http://advprojects.solution.weborama.fr/fcgi-bin/dispatch.fcgi?a.A=im&a.si=2994&a.te=498&a.he=1&a.wi=1&a.hr=p&a.ra=2058337562]]></Impression>
+<Impression/>
+<Impression><![CDATA[https://www.tns-counter.ru/V13a****vitpc_ad/ru/CP1251/tmsec=vitpc_monitoring-1/2058337562]]></Impression>
+<Impression><![CDATA[https://www.tns-counter.ru/V13a****vitpc_ad/ru/CP1251/tmsec=vitpc_counter-1/2058337562]]></Impression>
+<Impression><![CDATA[https://www.tns-counter.ru/V13a****vitpc_ad/ru/CP1251/tmsec=vitpc_video-31301/2058337562]]></Impression>
+<Impression><![CDATA[https://imho.solution.weborama.fr/fcgi-bin/dispatch.fcgi?a.A=im&a.si=3558&a.te=6&a.he=1&a.wi=1&a.hr=p&a.ra=2058337562]]></Impression>
+<Creatives>
+
+<Creative id="2097703/685798">
+
+<Linear skipoffset="00:00:05">
+
+<Duration>00:00:15</Duration>
+
+<TrackingEvents>
+
+<Tracking event="creativeView"><![CDATA[http://v.adfox.ru/226279/event?hash=7357ba55765d92b9&pm=c&utg=oxum&eid1=902%3A271871848%3A2627226628&puid30=902&puid14=100004&p2=eyit&p5=epjcx&p1=bofrt&pr=indebya&puid5=1&puid6=1&puid20=999999999&puid11=100010&puid13=100009&lts=evzehzy&puid10=100010%3A100022%3A100009%3A100004&rand=cpzhskj&puid12=100022]]></Tracking>
+<Tracking event="start"><![CDATA[http://v.adfox.ru/226279/event?hash=06d495b9ad0776fb&pm=d&utg=oxum&eid1=902%3A271871848%3A2627226628&puid30=902&puid14=100004&p2=eyit&p5=epjcx&p1=bofrt&pr=indebya&puid5=1&puid6=1&puid20=999999999&puid11=100010&puid13=100009&lts=evzehzy&puid10=100010%3A100022%3A100009%3A100004&rand=czsoogr&puid12=100022]]></Tracking>
+<Tracking event="midpoint"><![CDATA[http://v.adfox.ru/226279/event?hash=83b2b5364079d60c&pm=f&utg=oxum&eid1=902%3A271871848%3A2627226628&puid30=902&puid14=100004&p2=eyit&p5=epjcx&p1=bofrt&pr=indebya&puid5=1&puid6=1&puid20=999999999&puid11=100010&puid13=100009&lts=evzehzy&puid10=100010%3A100022%3A100009%3A100004&rand=etldcro&puid12=100022]]></Tracking>
+<Tracking event="firstQuartile"><![CDATA[http://v.adfox.ru/226279/event?hash=9bab974d94de8b19&pm=e&utg=oxum&eid1=902%3A271871848%3A2627226628&puid30=902&puid14=100004&p2=eyit&p5=epjcx&p1=bofrt&pr=indebya&puid5=1&puid6=1&puid20=999999999&puid11=100010&puid13=100009&lts=evzehzy&puid10=100010%3A100022%3A100009%3A100004&rand=ehgnkk&puid12=100022]]></Tracking>
+<Tracking event="thirdQuartile"><![CDATA[http://v.adfox.ru/226279/event?hash=80fbc94a55b69d41&pm=g&utg=oxum&eid1=902%3A271871848%3A2627226628&puid30=902&puid14=100004&p2=eyit&p5=epjcx&p1=bofrt&pr=indebya&puid5=1&puid6=1&puid20=999999999&puid11=100010&puid13=100009&lts=evzehzy&puid10=100010%3A100022%3A100009%3A100004&rand=bwnypkj&puid12=100022]]></Tracking>
+<Tracking event="complete"><![CDATA[http://v.adfox.ru/226279/event?hash=38ebf8410aa265c7&pm=h&utg=oxum&eid1=902%3A271871848%3A2627226628&puid30=902&puid14=100004&p2=eyit&p5=epjcx&p1=bofrt&pr=indebya&puid5=1&puid6=1&puid20=999999999&puid11=100010&puid13=100009&lts=evzehzy&puid10=100010%3A100022%3A100009%3A100004&rand=casgqxc&puid12=100022]]></Tracking>
+<Tracking event="mute"><![CDATA[http://v.adfox.ru/226279/event?hash=3daf5a13c55dd152&pm=i&utg=oxum&eid1=902%3A271871848%3A2627226628&puid30=902&puid14=100004&p2=eyit&p5=epjcx&p1=bofrt&pr=indebya&puid5=1&puid6=1&puid20=999999999&puid11=100010&puid13=100009&lts=evzehzy&puid10=100010%3A100022%3A100009%3A100004&rand=duqrffr&puid12=100022]]></Tracking>
+<Tracking event="unmute"><![CDATA[http://v.adfox.ru/226279/event?hash=bbec8a62f2f2f569&pm=j&utg=oxum&eid1=902%3A271871848%3A2627226628&puid30=902&puid14=100004&p2=eyit&p5=epjcx&p1=bofrt&pr=indebya&puid5=1&puid6=1&puid20=999999999&puid11=100010&puid13=100009&lts=evzehzy&puid10=100010%3A100022%3A100009%3A100004&rand=dumazym&puid12=100022]]></Tracking>
+<Tracking event="pause"><![CDATA[http://v.adfox.ru/226279/event?hash=1f15f2b9a14c460c&pm=k&utg=oxum&eid1=902%3A271871848%3A2627226628&puid30=902&puid14=100004&p2=eyit&p5=epjcx&p1=bofrt&pr=indebya&puid5=1&puid6=1&puid20=999999999&puid11=100010&puid13=100009&lts=evzehzy&puid10=100010%3A100022%3A100009%3A100004&rand=cnslgfo&puid12=100022]]></Tracking>
+<Tracking event="rewind"><![CDATA[http://v.adfox.ru/226279/event?hash=d18826989dc831e3&pm=l&utg=oxum&eid1=902%3A271871848%3A2627226628&puid30=902&puid14=100004&p2=eyit&p5=epjcx&p1=bofrt&pr=indebya&puid5=1&puid6=1&puid20=999999999&puid11=100010&puid13=100009&lts=evzehzy&puid10=100010%3A100022%3A100009%3A100004&rand=bxapwbt&puid12=100022]]></Tracking>
+<Tracking event="resume"><![CDATA[http://v.adfox.ru/226279/event?hash=921e6bbf6cb9b662&pm=m&utg=oxum&eid1=902%3A271871848%3A2627226628&puid30=902&puid14=100004&p2=eyit&p5=epjcx&p1=bofrt&pr=indebya&puid5=1&puid6=1&puid20=999999999&puid11=100010&puid13=100009&lts=evzehzy&puid10=100010%3A100022%3A100009%3A100004&rand=fnirgva&puid12=100022]]></Tracking>
+<Tracking event="fullscreen"><![CDATA[http://v.adfox.ru/226279/event?hash=f72c5e6a0a6c7546&pm=n&utg=oxum&eid1=902%3A271871848%3A2627226628&puid30=902&puid14=100004&p2=eyit&p5=epjcx&p1=bofrt&pr=indebya&puid5=1&puid6=1&puid20=999999999&puid11=100010&puid13=100009&lts=evzehzy&puid10=100010%3A100022%3A100009%3A100004&rand=btgzqpf&puid12=100022]]></Tracking>
+<Tracking event="expand"><![CDATA[http://v.adfox.ru/226279/event?hash=7fcca3635260a970&pm=o&utg=oxum&eid1=902%3A271871848%3A2627226628&puid30=902&puid14=100004&p2=eyit&p5=epjcx&p1=bofrt&pr=indebya&puid5=1&puid6=1&puid20=999999999&puid11=100010&puid13=100009&lts=evzehzy&puid10=100010%3A100022%3A100009%3A100004&rand=dniqkgg&puid12=100022]]></Tracking>
+<Tracking event="collapse"><![CDATA[http://v.adfox.ru/226279/event?hash=7cbe297879b5b5e7&pm=p&utg=oxum&eid1=902%3A271871848%3A2627226628&puid30=902&puid14=100004&p2=eyit&p5=epjcx&p1=bofrt&pr=indebya&puid5=1&puid6=1&puid20=999999999&puid11=100010&puid13=100009&lts=evzehzy&puid10=100010%3A100022%3A100009%3A100004&rand=rkgndt&puid12=100022]]></Tracking>
+<Tracking event="acceptInvitation"><![CDATA[http://v.adfox.ru/226279/event?hash=f57353d6823228c3&pm=q&utg=oxum&eid1=902%3A271871848%3A2627226628&puid30=902&puid14=100004&p2=eyit&p5=epjcx&p1=bofrt&pr=indebya&puid5=1&puid6=1&puid20=999999999&puid11=100010&puid13=100009&lts=evzehzy&puid10=100010%3A100022%3A100009%3A100004&rand=tsmusu&puid12=100022]]></Tracking>
+<Tracking event="close"><![CDATA[http://v.adfox.ru/226279/event?hash=1b67f4cca998ca31&pm=r&utg=oxum&eid1=902%3A271871848%3A2627226628&puid30=902&puid14=100004&p2=eyit&p5=epjcx&p1=bofrt&pr=indebya&puid5=1&puid6=1&puid20=999999999&puid11=100010&puid13=100009&lts=evzehzy&puid10=100010%3A100022%3A100009%3A100004&rand=fomsdcf&puid12=100022]]></Tracking>
+
+
+</TrackingEvents>
+
+<VideoClicks>
+<ClickThrough><![CDATA[http://v.adfox.ru/226279/goLink?eid1=902%3A271871848%3A2627226628&puid30=902&puid14=100004&puid13=100009&p2=eyit&puid12=100022&rand=euexijv&p5=epjcx&p1=bofrt&pr=indebya&hash=62e0396c8898b90b&puid5=1&puid6=1&puid20=999999999&puid11=100010&puid10=100010%3A100022%3A100009%3A100004@http://unilever2.solution.weborama.fr/fcgi-bin/dispatch.fcgi?a.A=cl&a.si=3471&a.te=1142&a.aap=708&a.agi=379&g.lu=]]></ClickThrough>
+</VideoClicks>
+
+<MediaFiles>
+
+<MediaFile id="1" delivery="progressive" type="video/mp4" bitrate="878" maintainAspectRatio="false" scalable="true" width="768" height="432">
+<![CDATA[http://vi.cdnvideo.ru/media/m/Unilever/2017/Unilever_Timotei_OLV_may_jul_2017_ADV03043/imho_mob_Timotei_Eden_Talisman_15sec.mp4]]>
+
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+
+<Extensions>
+<Extension type="Urlmod" scope="" method="" final="false">
+<urlpart/>
+</Extension>
+                <Extension type="CustomTracking">
+                    <Tracking event="onVastLoad"><![CDATA[https://www.tns-counter.ru/V13a****imhovi_ru/ru/CP1251/tmsec=imhovi_total/2058337562]]></Tracking>
+                    <Tracking event="onVastLoad"><![CDATA[https://www.tns-counter.ru/V13a****vitpc_ad/ru/CP1251/tmsec=vitpc_monitoring-1/2058337562]]></Tracking>
+                    <Tracking event="onVastLoad"><![CDATA[https://www.tns-counter.ru/V13a****vitpc_ad/ru/CP1251/tmsec=vitpc_counter-1/2058337562]]></Tracking>
+                    <Tracking event="onVastLoad"><![CDATA[https://www.tns-counter.ru/V13a****vitpc_ad/ru/CP1251/tmsec=vitpc_video-31301/2058337562]]></Tracking>
+<Tracking event="onVastLoad"><![CDATA[https://www.tns-counter.ru/V13a****vitpc_ad/ru/CP1251/tmsec=vitpc_genre-100010/2058337562]]></Tracking>
+<Tracking event="onVastLoad"><![CDATA[https://www.tns-counter.ru/V13a****vitpc_ad/ru/CP1251/tmsec=vitpc_genre-100022/2058337562]]></Tracking>
+<Tracking event="onVastLoad"><![CDATA[https://www.tns-counter.ru/V13a****vitpc_ad/ru/CP1251/tmsec=vitpc_genre-100009/2058337562]]></Tracking>
+<Tracking event="onVastLoad"><![CDATA[https://www.tns-counter.ru/V13a****vitpc_ad/ru/CP1251/tmsec=vitpc_genre-100004/2058337562]]></Tracking>
+<Tracking event="onVastLoad"><![CDATA[https://www.tns-counter.ru/V13a****vitpc_ad/ru/CP1251/tmsec=vitpc_genre-/2058337562]]></Tracking>
+<Tracking event="onVastLoad"><![CDATA[https://imho.solution.weborama.fr/fcgi-bin/dispatch.fcgi?a.A=im&a.si=3558&a.te=6&a.he=1&a.wi=1&a.hr=p&a.ra=2058337562]]></Tracking>
+                </Extension>
+<Extension type="skipTime2"><![CDATA[00:05]]></Extension>
+</Extensions> 
+</InLine>
+</Ad>
+</VAST>
